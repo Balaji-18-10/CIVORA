@@ -1,20 +1,154 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🚀 CIVORA – AI Powered Civic Infrastructure Platform
 
-# Run and deploy your AI Studio app
+CIVORA is an AI-powered civic infrastructure management platform that helps municipalities streamline complaint registration, classification, prioritization, and resolution. By leveraging Artificial Intelligence and Google Cloud technologies, the platform enables faster response times, efficient resource allocation, and improved transparency between citizens and municipal authorities.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/2719ceed-cbae-43e6-9b0e-a80721258613
+## 📌 Problem Statement
 
-## Run Locally
+Traditional municipal complaint systems rely on manual processing, leading to delayed responses, poor prioritization, and inefficient resource management. CIVORA addresses these challenges through AI-driven complaint analysis, automated prioritization, and real-time monitoring.
 
-**Prerequisites:**  Node.js
+---
 
+## ✨ Features
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- 🔐 Role-Based Authentication
+- 📝 Smart Complaint Registration
+- 🤖 AI Complaint Classification
+- ⚡ Severity & Priority Prediction
+- 📍 GPS-Based Location Detection
+- 🗺️ Interactive Map Visualization
+- 📊 Real-Time Analytics Dashboard
+- 🚧 Crew Dispatch Management
+- 📈 Reports & Insights
+- 🔔 Status Tracking & Notifications
+- 🏆 Citizen Rewards & Leaderboard
+- 🎤 Speech-to-Text Complaint Input
+- 🖼️ AI Image Analysis
+- 🚫 Duplicate Complaint Detection
+
+---
+
+## 🛠️ Technology Stack
+
+### Frontend
+- React.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB Atlas
+
+### AI Services
+- Google Gemini AI
+- Computer Vision
+- NLP & Speech Processing
+
+### Cloud
+- Google Cloud Run
+
+### Maps & Visualization
+- Google Maps API
+- Chart.js
+
+### Version Control
+- Git
+- GitHub
+
+---
+
+## ⚙️ Workflow
+
+Citizen Login
+
+↓
+
+Submit Complaint
+
+↓
+
+AI Image & Text Analysis
+
+↓
+
+Complaint Classification
+
+↓
+
+Severity & Priority Prediction
+
+↓
+
+Dashboard & Analytics
+
+↓
+
+Crew Assignment
+
+↓
+
+Status Tracking
+
+↓
+
+Complaint Resolution
+
+---
+
+## 📷 Application Modules
+
+- Identity Portal
+- Citizen Dashboard
+- Complaint Registration
+- Complaint Management
+- AI Analysis
+- Analytics Dashboard
+- Leaderboard
+- Reports
+- Notifications
+
+---
+
+## 🎯 Key Highlights
+
+- AI-powered complaint verification
+- Intelligent priority prediction
+- Cloud-native scalable architecture
+- Interactive dashboards
+- Faster municipal response
+- Improved civic transparency
+- Data-driven decision making
+
+---
+
+## 🌍 Real-World Impact
+
+CIVORA helps municipalities reduce complaint resolution time, improve operational efficiency, optimize workforce allocation, and enhance citizen satisfaction through an intelligent, AI-driven civic management platform.
+
+---
+
+## 🚀 Future Enhancements
+
+- Mobile Application
+- Predictive Infrastructure Maintenance
+- IoT Sensor Integration
+- Multilingual AI Assistant
+- Offline Complaint Reporting
+- Advanced Predictive Analytics
+
+---
+
+## 👥 Team
+
+**Project:** CIVORA – AI Powered Civic Infrastructure Platform
+
+Developed for Smart City & AI Hackathon.
+
+---
+
+## 📄 License
+
+This project is developed for educational and hackathon purposes.
